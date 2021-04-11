@@ -1,3 +1,3 @@
-# npx regit https://github.com/sGabunia/gulp-starter.git new-project  
-# npm install  
-# gulp watch
+1) npx regit https://github.com/sGabunia/gulp-starter.git new-project  
+2) npm install  
+3) gulp watch
